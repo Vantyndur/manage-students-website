@@ -11,4 +11,10 @@ User can:
 - delete subjects
 I've made the website responsive using flexbox. 
 The look of tables is made using bootstrap classes.
+
+I've added some pictures of website for a quick look. 
+You can find them in directory named 'images'.
+If you want to try using my website, download directory named 'site'.
+When your download is complete you can open file named 'index.html' in your browser. I suggest firefox, which was used for tests.
+
 I hope you'll find my project interesting.
